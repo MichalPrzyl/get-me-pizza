@@ -1,0 +1,68 @@
+1.   MALUCH
+sos, ser, oregano
+
+2.   CLIO
+sos, ser, szynka, pieczarki, oregano
+
+3.   SWIFT
+sos, ser, salami, pieczarki, oregano
+
+4.   CIVIK
+sos, ser, szynka, ananas, oregano
+
+5.   KJA
+sos, ser, kurczak, kukurydza, pieczarki, oregano
+
+6.   BEMKA
+sos, ser, kurczak, ogórek kiszony, pomidor, cebula, oregano
+
+7.   CITROEN
+sos, ser, szynka, kukurydza, pieczarki, oregano
+
+8.   DASTER
+sos, ser, boczek, cebula, ser wędzony, zapiekany sos BBQ, oregano
+
+9.   PORSZE
+sos, ser, salami pepperoni, papryka, pieczarki, oregano
+
+10.   SEJAK
+sos, ser, świeży szpinak, czosnek, feta, oregano
+
+11.   TESLA
+sos, ser, pomidor, cebula, oliwki czarne, brokuły, papryka, oregano
+
+12.   AUDICA
+sos, ser, szynka, kukurydza, papryka, pieczarki, podwójny ser, oregano
+
+13.   SANTA FE
+sos, ser, camembert, feta, lazur, biała mozzarella, oregano
+
+14.   PASAT
+sos, ser, boczek, kiełbasa, ogórek kiszony, cebula, pieczarki, oregano
+
+15.   NOCNY DRIVER
+sos, ser, salami, szynka, boczek, papryka, cebula, papryka jalapeño, pieczarki, oregano
+
+16.   LAMBO
+sos, ser, szynka parmeńska, pomidorki koktajlowe, parmezan, rukola, oregano
+
+17.   OFF-ROAD
+sos, ser, boczek, kiełbasa, cebula, pieczarki, ser wędzony, żurawina, oregano
+
+18.   COROLA
+sos, ser, szynka, kurczak, pomidor, oliwki czarne, zapiekany sos czosnkowy, oregano
+
+19.   WŚCIEKŁY DRIVER
+sos, ser, salami, boczek, papryka jalapeño, cebula, zapiekany sos piri piri, tabasco, oregano
+
+20.   MEROL
+sos, ser, salami, szynka, kurczak, kiełbasa, cebula, ogórek kiszony, papryka, kukurydza, pieczarki, podwójny ser, oregano
+
+21.   GARAGE 1
+sos, ser, 1 dowolny składnik, oregano
+
+22.   GARAGE 2
+sos, ser, 3 dowolne składniki, oregano
+
+23.   GARAGE 3
+sos, ser, 5 dowolnych składników, oregano
