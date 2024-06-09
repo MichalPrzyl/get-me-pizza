@@ -10,6 +10,9 @@ based on my preferences.
 
 ## How to run
 
+You can specify your preferences in `I_DONT_WANT_INGREDIENTS` variable.
+Just put there list of ingredients that you don't like 🤣.
+
 ```python
 $ python3 script.py
 ```
